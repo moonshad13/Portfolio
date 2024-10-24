@@ -1,0 +1,16 @@
+/* Contact Section */
+#contact {
+    padding: 50px 0;
+    background-color: #f8f3f3;
+    text-align: center;
+}
+
+#contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+#contact p {
+    font-size: 1.2rem;
+}
+

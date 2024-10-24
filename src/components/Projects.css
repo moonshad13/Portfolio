@@ -1,0 +1,62 @@
+/* Projects Section */
+#projects {
+    padding: 50px 0;
+    background-color: white;
+}
+
+#projects h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.project-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.project-item {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    text-align: center;
+}
+
+.project-item:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.project-item h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.project-item p {
+    font-size: 1rem;
+}
+/* Existing styles remain here */
+
+/* Add these styles for the slider */
+.slick-prev, .slick-next {
+    color: #ff6600;
+    z-index: 1;
+  }
+  
+  .slick-prev:hover, .slick-next:hover {
+    color: #ff4500;
+  }
+  
+  .project-item {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  }
+  
