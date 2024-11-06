@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.905f4720.css",
+    "main.js": "/Portfolio/static/js/main.7e584768.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Moonshad.jpeg.jpg": "/Portfolio/static/media/Moonshad.jpeg.81dd9d5713e24849b96d.jpg",
+    "static/media/slick.svg": "/Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Portfolio/index.html",
+    "main.905f4720.css.map": "/Portfolio/static/css/main.905f4720.css.map",
+    "main.7e584768.js.map": "/Portfolio/static/js/main.7e584768.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905f4720.css",
+    "static/js/main.7e584768.js"
+  ]
+}
